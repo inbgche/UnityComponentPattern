@@ -1,2 +1,2 @@
 # UnityComponentPattern
-Component Pattern in Unity C#
+Component Pattern Implementation in Unity C#
